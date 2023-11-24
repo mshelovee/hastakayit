@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\hastane -96\hastane -96\bin\Debug\hastane -96.exe.config
+C:\Users\User\source\repos\hastane -96\hastane -96\bin\Debug\hastane -96.exe
+C:\Users\User\source\repos\hastane -96\hastane -96\bin\Debug\hastane -96.pdb
+C:\Users\User\source\repos\hastane -96\hastane -96\obj\Debug\hastane -96.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\hastane -96\hastane -96\obj\Debug\hastane -96.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\hastane -96\hastane -96\obj\Debug\hastane__96.Form1.resources
+C:\Users\User\source\repos\hastane -96\hastane -96\obj\Debug\hastane__96.Properties.Resources.resources
+C:\Users\User\source\repos\hastane -96\hastane -96\obj\Debug\hastane -96.csproj.GenerateResource.cache
+C:\Users\User\source\repos\hastane -96\hastane -96\obj\Debug\hastane -96.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hastane -96\hastane -96\obj\Debug\hastane -96.exe
+C:\Users\User\source\repos\hastane -96\hastane -96\obj\Debug\hastane -96.pdb
